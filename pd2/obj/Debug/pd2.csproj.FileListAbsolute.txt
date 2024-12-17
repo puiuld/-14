@@ -1,0 +1,2 @@
+D:\115\pd2\obj\Debug\pd2.csproj.AssemblyReference.cache
+D:\115\pd2\obj\Debug\pd2.csproj.CoreCompileInputs.cache
