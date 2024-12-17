@@ -1,0 +1,7 @@
+D:\115\pd\bin\Debug\pd.exe.config
+D:\115\pd\bin\Debug\pd.exe
+D:\115\pd\bin\Debug\pd.pdb
+D:\115\pd\obj\Debug\pd.csproj.AssemblyReference.cache
+D:\115\pd\obj\Debug\pd.csproj.CoreCompileInputs.cache
+D:\115\pd\obj\Debug\pd.exe
+D:\115\pd\obj\Debug\pd.pdb
